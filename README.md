@@ -11,7 +11,7 @@
 - Commit changes - You may decide not to fill the two fields (it's optional)
 - You should see a button `Create Pull Request`
 ![20200905_072235_0000](https://user-images.githubusercontent.com/57611810/92299275-c7621880-ef48-11ea-8c48-a0dd62db4067.png)
-- Click the 'Create pull request' button with the default options
+- Click the 'Create pull request' button with the default options. (In case the create a pull request button doesn't click or is not green you can decide to fill anything in the commit message field or just tap one of the fields🤗)
 - All Done 🎉
 
 **Note:**
