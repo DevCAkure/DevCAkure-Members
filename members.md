@@ -8,3 +8,4 @@
 | 4 | Shoyemi Samuel | ShowBaba | [SammyWise15](https://twitter.com/SammyWise15?s=09) | [Sam Sam](https://www.facebook.com/samuel.shoyemi) | May 16 |
 | 5 | Onyibe Godstime | godstyme | [Godstime](https://twitter.com/GodstimeOnyibe)| [Godstime Onyibe](https://web.facebook.com/Godstimeonyibelawrence) | December 7 |
 | 6 | Favour Olusayo| OluwaFavour | [FavourOlusayo](https://twitter.com/FavourOlusayo)| [Favour Olusayo](https://web.facebook.com/OluwaFavourVerified) | April 29|
+| 7 | Kingsley Umujeyan | kuicpet | [kuicpet](https://twitter.com/kuicpet) | [Kingsley Umujeyan](https://web.facebook.com/umujeyan.kingsley) | April 7 |
